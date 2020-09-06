@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MenuLayoutUnguided9590</string>
+    <string name="hello_guest">Hello Guest!</string>
+    <string name="subtitle">Hi, let me introduce my self, My name is Willi.
+                            \nWant to know more?.
+                            \nKnock my social media account.</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="age_hint">Age</string>
+    <string name="btn_sumbit_text">Sumbit</string>
+    <string name="move_detected">Move Detected</string>
+    <string name="warning_text">TRY AGAIN</string>
+    <string name="choose_snacks_text">Choose Snacks</string>
+    <string name="back_text">Back</string>
+    <string name="done_text">Done</string>
+    <string-array name="item_text">
+        <item>Mie Kremes</item>
+        <item>Oreo</item>
+        <item>Wafer Nabati</item>
+        <item>Taro</item>
+        <item>Doritos</item>
+    </string-array>
+</resources>
